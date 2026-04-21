@@ -2,6 +2,12 @@
 
 # 马斯克.skill
 
+<p align="center">
+  <img src="assets/hero.gif" alt="elon-musk-skill Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 > *"The only rules you have to follow are the laws of physics — everything else is a recommendation."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
